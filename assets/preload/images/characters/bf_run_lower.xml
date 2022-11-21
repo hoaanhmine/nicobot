@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_run_lower.png"><SubTexture name="bf_run_lower run0000" x="1353" y="0" width="619" height="567" frameX="-537" frameY="-446" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0001" x="0" y="620" width="637" height="572" frameX="-549" frameY="-431" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0002" x="0" y="1192" width="649" height="560" frameX="-549" frameY="-427" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0003" x="637" y="620" width="674" height="569" frameX="-548" frameY="-430" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0004" x="0" y="0" width="276" height="620" frameX="-716" frameY="-443" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0005" x="276" y="0" width="354" height="617" frameX="-687" frameY="-443" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0006" x="962" y="0" width="391" height="604" frameX="-677" frameY="-456" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="bf_run_lower run0007" x="630" y="0" width="332" height="610" frameX="-702" frameY="-456" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

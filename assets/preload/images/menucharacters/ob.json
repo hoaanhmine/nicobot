@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF NOTE UP MISS",
+	"idle_anim": "IDLE",
+	"position": [
+		321,
+		185
+	],
+	"scale": 0.5,
+	"image": "Menu_ob",
+	"flipX": false
+}
